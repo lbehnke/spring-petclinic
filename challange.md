@@ -13,6 +13,6 @@ The project owner creates the following user story:
 Compile a list questions you would like to ask the project owner to further refine this user story.
 
 Implement a prototype of this feature based on your assumptions.
-
+Create a pull request or send me the zipped project folder.
 
 
